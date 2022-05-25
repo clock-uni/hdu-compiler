@@ -1,0 +1,14 @@
+int a,b;
+
+int main(){
+    a=10;
+    b=5;
+    d=0x1A;
+    ds=0XFF;
+    e=0b000101;
+    es=0B1100;
+    f=0o70;
+    fs=0O17;
+    int c=a*2+b+3;
+    return c;
+}
