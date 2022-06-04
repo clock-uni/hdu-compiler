@@ -1,31 +1,18 @@
-int a,b;
-int code[20];
+int a;
+int main()
+{
+	a = 10;
+                b = 0x11flf;
+                c = 027;
+                // d = 20;
+               /* e = 30;
+              */
 
-//hihihi
-/hello
-///ffff
-
-/*test*/
-
-int main(){
-    a = 10;
-    b = 5;
-    if (a == 5) {
-        a = 25;
-    } else {
-        a = a * 2;
-    }
-    const int d = 0x1A;
-    int ds = 0XFF;
-    int f = 0o70;
-    int fs = 0O17;
-
-    e = 0o000;
-    f = 0b123
-    int c = a * 2 + b;
-    return c;
+	if ( a><0 )
+               {
+		return 1a;
+	}
+	else{
+		return 0;
+	}
 }
-
-/hi
-/*for test
-exit
